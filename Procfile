@@ -1,1 +1,1 @@
-Worker: botz.py
+worker: botz.py
