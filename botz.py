@@ -19,4 +19,4 @@ async def F(ctx):
 async def Modi(ctx):
     await ctx.send("Mitron..!!")    
      
-client.run("NzQzMTAzOTA1NTc0OTQ0ODM4.XzPzcQ.WD4VnMw4qOjzirjoEv67ZjMRWvQ")
+client.run("vNzQzMTAzOTA1NTc0OTQ0ODM4.XzPzcQ.Uo6vuR0tH6J37QoBmx1EtbG5J8Y)
